@@ -17,3 +17,5 @@
 [XML Code](Xml/P1.xml) 
 
 [Kotlin Code](Kotlin/P1.kt)
+
+[Output Screenshot](Images/S1.png)
