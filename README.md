@@ -3,7 +3,7 @@
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
  ## Topics : 
-### 1.Hello World App:
+### <u>1.Hello World App:</u>
 
 
 > App to display Hello World on screen. 
@@ -20,7 +20,7 @@
 
 [Output Screenshot](Images/S1.png)
 
-### 2.TextViews and Submit Button App:
+### <u>2.TextViews and Submit Button App:</u>
 
 > App to display Text and a button to show Toast message on screen. 
 - TextView
@@ -36,27 +36,46 @@
 [Output Screenshot](Images/S2.png)
 
 
-### 3.Simple Adding Calculator App:
+### <u>3.Simple Addition Calculator App:</u>
 
-[XML Code](Xml/P2.xml) 
+> App to add two numbers and show the result on screen. 
+- EditText
+- TextView
+- Button
 
-[Kotlin Code](Kotlin/P2.kt)
+[XML Code](Xml/P3.xml) 
 
-[Output Screenshot](Images/S2.png)
+[Kotlin Code](Kotlin/P3.kt)
+
+[Output Screenshot](Images/S3.png)
 
 
-### 4.Simple Add, Subtract, Multiply & Division Calculator App:
+### <u>4.Simple Addition, Subtraction, Multiplication & Division Calculator App:</u>
 
-[XML Code](Xml/P2.xml) 
+> App that can add, subtract, multipy & divide two numbers and show the result on screen. 
 
-[Kotlin Code](Kotlin/P2.kt)
+- EditText
+- TextView
+- Button
+- Toast Message
 
-[Output Screenshot](Images/S2.png)
+[XML Code](Xml/P4.xml) 
 
-### 5.Simple Form App:
+[Kotlin Code](Kotlin/P4.kt)
 
-[XML Code](Xml/P2.xml) 
+[Output Screenshot](Images/S4.png)
 
-[Kotlin Code](Kotlin/P2.kt)
+### <u>5.Simple Form App:</u>
 
-[Output Screenshot](Images/S2.png)
+> App that takes different inputs from user and show it on the screen. 
+
+- EditText
+- TextView
+- Button
+
+[XML Code](Xml/P5.xml) 
+
+[Kotlin Code](Kotlin/P5.kt)
+
+[Output Screenshot](Images/S5.png)
+
