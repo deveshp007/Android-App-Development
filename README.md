@@ -79,3 +79,14 @@
 
 [Output Screenshot](Images/S5.png)
 
+### <u>6.Android Activity Lifecycle:</u>
+
+> shows Logs in Logcat section about start, stop, pause, resume etc.
+- Override Methods
+
+[XML Code](Xml/P6.xml) 
+
+[Kotlin Code](Kotlin/P6.kt)
+
+[Output Screenshot](Images/S6.png)
+
