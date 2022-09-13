@@ -3,7 +3,7 @@
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
  ## Topics : 
-### <u>1.Hello World App:</u>
+### <u>1. Hello World App:</u>
 
 
 > App to display Hello World on screen. 
@@ -20,7 +20,7 @@
 
 [Output Screenshot](Images/S1.png)
 
-### <u>2.TextViews and Submit Button App:</u>
+### <u>2. TextViews and Submit Button App:</u>
 
 > App to display Text and a button to show Toast message on screen. 
 - TextView
@@ -36,7 +36,7 @@
 [Output Screenshot](Images/S2.png)
 
 
-### <u>3.Simple Addition Calculator App:</u>
+### <u>3. Simple Addition Calculator App:</u>
 
 > App to add two numbers and show the result on screen. 
 - EditText
@@ -50,7 +50,7 @@
 [Output Screenshot](Images/S3.png)
 
 
-### <u>4.Simple Addition, Subtraction, Multiplication & Division Calculator App:</u>
+### <u>4. Simple Addition, Subtraction, Multiplication & Division Calculator App:</u>
 
 > App that can add, subtract, multipy & divide two numbers and show the result on screen. 
 
@@ -65,7 +65,7 @@
 
 [Output Screenshot](Images/S4.png)
 
-### <u>5.Simple Form App:</u>
+### <u>5. Simple Form App:</u>
 
 > App that takes different inputs from user and show it on the screen. 
 
@@ -79,9 +79,10 @@
 
 [Output Screenshot](Images/S5.png)
 
-### <u>6.Android Activity Lifecycle:</u>
+### <u>6. Android Activity Lifecycle:</u>
 
 > shows Logs in Logcat section about start, stop, pause, resume etc.
+
 - Override Methods
 
 [XML Code](Xml/P6.xml) 
@@ -90,3 +91,16 @@
 
 [Output Screenshot](Images/S6.png)
 
+### <u>7. Radio-Button Implementation:</u>
+
+> App having radioButtons that shows the text of selected option when submit button clicked.
+
+ - RadioGroup
+ - RadioButton
+ - OnClickListener
+
+[XML Code](Xml/P7.xml) 
+
+[Kotlin Code](Kotlin/P7.kt)
+
+[Output Screenshot](Images/S7.png)
