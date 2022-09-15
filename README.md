@@ -108,10 +108,11 @@
 
 ### <u>8. Grid-Layout Implementation:</u>
 
-> App having Image-Button in the form of grid.
+> App having Image-Button in the form of grid shows Toast message on clicking.
 
 - GridLayout
 - ImageButton
+- Toast Message
 
 [XML Code](Xml/P8.xml) 
 
