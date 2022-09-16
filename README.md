@@ -119,3 +119,6 @@
 [Kotlin Code](Kotlin/P8.kt)
 
 [Output Screenshot](Images/S8.png)
+
+
+### <u>9. Simple Calculator App:</u>
