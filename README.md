@@ -122,3 +122,6 @@
 
 
 ### <u>9. Simple Calculator App:</u>
+
+> App that can do basic mathematics operations like add, Sub, Multiplication, division, Percentage, etc. having phone calculator like UI.
+
