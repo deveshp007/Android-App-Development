@@ -122,3 +122,15 @@
 
 
 ### <u>9. Simple Calculator App:</u>
+
+> Simple Calculator same as phone calculator with minimal operations.
+
+- EditText
+- TextView
+- Button
+
+[XML Code](Xml/P9.xml) 
+
+[Kotlin Code](Kotlin/P9.kt)
+
+[Output Screenshot](Images/S9.png)
