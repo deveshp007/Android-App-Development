@@ -123,9 +123,14 @@
 
 ### <u>9. Simple Calculator App:</u>
 
-<<<<<<< HEAD
-
-=======
 > App that can do basic mathematics operations like add, Sub, Multiplication, division, Percentage, etc. having phone calculator like UI.
 
->>>>>>> 07463f0c298656bd03307f79c3dbb0352f912fa3
+- EditText
+- TextView
+- Button
+
+[XML Code](Xml/P9.xml) 
+
+[Kotlin Code](Kotlin/P9.kt)
+
+[Output Screenshot](Images/S9.png)
