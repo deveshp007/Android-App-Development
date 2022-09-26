@@ -152,3 +152,17 @@
 [Kotlin Code](Kotlin/P10.kt)
 
 [Output Screenshot](Images/S10.png)
+
+
+### <u>11. ListView Example App:</u>
+
+> App with multiple items in ListView which changes background Color when clicked on listView item.
+
+- ListView
+- arrayAdapter
+
+[XML Code](Xml/P11.xml) 
+
+[Kotlin Code](Kotlin/P11.kt)
+
+[Output Screenshot](Images/S11.png)
