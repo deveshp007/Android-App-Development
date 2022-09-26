@@ -128,6 +128,8 @@
 - EditText
 - TextView
 - Button
+- epx4j library to solve expressions
+- append() function
 
 [XML Code](Xml/P9.xml) 
 
