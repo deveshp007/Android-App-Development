@@ -138,7 +138,7 @@
 [Output Screenshot](Images/S9.png)
 
 
-### <u>9. CheckBox Example App:</u>
+### <u>10. CheckBox Example App:</u>
 
 > App with multiple checkBox items which shows text of selected Box in toast message when pressed submit button.
 
