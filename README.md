@@ -136,3 +136,19 @@
 [Kotlin Code](Kotlin/P9.kt)
 
 [Output Screenshot](Images/S9.png)
+
+
+### <u>9. CheckBox Example App:</u>
+
+> App with multiple checkBox items which shows text of selected Box in toast message when pressed submit button.
+
+- CheckBox
+- Button
+- append() function
+- Toast 
+
+[XML Code](Xml/P10.xml) 
+
+[Kotlin Code](Kotlin/P10.kt)
+
+[Output Screenshot](Images/S10.png)
