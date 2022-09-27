@@ -168,7 +168,7 @@
 [Output Screenshot](Images/S11.png)
 
 
-### <u>12. DropDown Example App:</u>
+### <u>12. Drop-Down Example App:</u>
 
 > Form app with a drop-down (Spinner) options.
 
@@ -176,3 +176,8 @@
 - Spinner
 - Adapter
 
+[XML Code](Xml/P12.xml) 
+
+[Kotlin Code](Kotlin/P12.kt)
+
+[Output Screenshot](Images/S12.png)
