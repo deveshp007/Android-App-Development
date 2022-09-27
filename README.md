@@ -166,3 +166,13 @@
 [Kotlin Code](Kotlin/P11.kt)
 
 [Output Screenshot](Images/S11.png)
+
+
+### <u>12. DropDown Example App:</u>
+
+> Form app with a drop-down (Spinner) options.
+
+- EditText
+- Spinner
+- Adapter
+
