@@ -182,7 +182,7 @@
 
 [Output Screenshot](Images/S12.png)
 
-### <u>12. Intent Example App:</u>
+### <u>13. Intent Example App:</u>
 
 > Form app with two activity which take user input in one activity and display on another using Intent.
 
