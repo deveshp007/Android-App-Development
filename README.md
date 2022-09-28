@@ -181,3 +181,20 @@
 [Kotlin Code](Kotlin/P12.kt)
 
 [Output Screenshot](Images/S12.png)
+
+### <u>12. Intent Example App:</u>
+
+> Form app with two activity which take user input in one activity and display on another using Intent.
+
+- Intent
+- EditText
+- Spinner
+- Adapter
+
+[XML Code for 1'st activity](Xml/P13_a.xml) 
+[XML Code for 2'nd activity](Xml/P13_b.xml) 
+
+[Kotlin Code for 1'st activity](Kotlin/P13_a.kt)
+[Kotlin Code for 2'nd activity](Kotlin/P13_b.kt)
+
+[Output Screenshot](Images/S13.png)
