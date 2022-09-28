@@ -191,10 +191,14 @@
 - Spinner
 - Adapter
 
-[XML Code for 1'st activity](Xml/P13_a.xml) 
+[XML Code for 1'st activity](Xml/P13_a.xml)
+
 [XML Code for 2'nd activity](Xml/P13_b.xml) 
 
+
 [Kotlin Code for 1'st activity](Kotlin/P13_a.kt)
+
 [Kotlin Code for 2'nd activity](Kotlin/P13_b.kt)
+
 
 [Output Screenshot](Images/S13.png)
