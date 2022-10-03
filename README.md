@@ -227,7 +227,22 @@
 
 ---
 
-### <u>14. Food order Example App:</u>
+### <u>14. Image Button Example App:</u>
+
+> App having 3 imageButton which shows Toast message when clicked on them.
+
+- ImageButton
+- Toast
+
+[XML Code](Xml/P14.xml) 
+
+[Kotlin Code](Kotlin/P14.kt)
+
+[Output Screenshot](Images/S14.png)
+
+---
+
+### <u>15. Food order Example App:</u>
 
 > Dummy Food order app with three activity in which user have to choose an item from the list in 1'st activity, fill details in 2'nd activity and it will display values on last activity.
 
@@ -248,11 +263,25 @@
 
 | XML Codes | Kotlin Codes|  Output |
 |-----------|:-----------:| :-----------:|
-| [1'st activity](Xml/P14_a.xml) | [1'st activity](Kotlin/P14_a.kt) |  | 
-| [2'nd activity](Xml/P14_b.xml) | [2'nd activity](Kotlin/P14_b.kt) | [Output Screenshot](Images/S14.png) |
-| [3'rd activity](Xml/P14_c.xml) | [3'rd activity](Kotlin/P14_c.kt) |  |
-| [Custom List item design](Xml/P14_d.xml) |  |   |
+| [1'st activity](Xml/P15_a.xml) | [1'st activity](Kotlin/P15_a.kt) |  | 
+| [2'nd activity](Xml/P15_b.xml) | [2'nd activity](Kotlin/P15_b.kt) | [Output Screenshot](Images/S15.png) |
+| [3'rd activity](Xml/P15_c.xml) | [3'rd activity](Kotlin/P15_c.kt) |  |
+| [Custom List item design](Xml/P15_d.xml) |  |   |
 
-<br>
 
 ---
+
+### <u>16. Dynamic View Example App:</u>
+
+> App with a Dynamic button which create new View-Group when clicked on it.
+
+- Linear Layout
+- LayoutParams
+- Button
+
+[XML Code](Xml/P16.xml) 
+
+[Kotlin Code](Kotlin/P16.kt)
+
+[Output Screenshot](Images/S16.png)
+
