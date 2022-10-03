@@ -205,7 +205,7 @@
 
 ### <u>14. Food order Example App:</u>
 
-> Food order app with three activity in which user have to choose an item from the list in 1'st activity, fill details in 2'nd activity and it will display values on last activity.
+> Dummy Food order app with three activity in which user have to choose an item from the list in 1'st activity, fill details in 2'nd activity and it will display values on last activity.
 
 - Custom ListView
 - ScrollView
