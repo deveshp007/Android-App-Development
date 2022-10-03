@@ -234,5 +234,6 @@
 
 [Kotlin Code for 3'rd activity](Kotlin/P14_c.kt)
 
+<br>
 
 [Output Screenshot](Images/S14.png)
