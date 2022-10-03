@@ -202,3 +202,37 @@
 
 
 [Output Screenshot](Images/S13.png)
+
+### <u>14. Food order Example App:</u>
+
+> Food order app with three activity in which user have to choose an item from the list in 1'st activity, fill details in 2'nd activity and it will display values on last activity.
+
+- Custom ListView
+- ScrollView
+- CardView
+- Relative Layout
+- Constraint Layout
+- Linear Layout
+- Grid Layout
+- Intent
+- Spinner
+- Adapter
+
+[XML Code for 1'st activity](Xml/P14_a.xml)
+
+[XML Code for 2'nd activity](Xml/P14_b.xml)
+
+[XML Code for 3'rd activity](Xml/P14_c.xml)
+
+[XML Code for Custom List item design](Xml/P14_d.xml)
+
+<br>
+
+[Kotlin Code for 1'st activity](Kotlin/P14_a.kt)
+
+[Kotlin Code for 2'nd activity](Kotlin/P14_b.kt)
+
+[Kotlin Code for 3'rd activity](Kotlin/P14_c.kt)
+
+
+[Output Screenshot](Images/S14.png)
