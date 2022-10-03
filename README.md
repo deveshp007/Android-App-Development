@@ -246,15 +246,13 @@
 
 <br>
 
-| XML Codes | Kotlin Codes|  
-|-----------|:-----------:| 
-| [1'st activity](Xml/P14_a.xml) | [1'st activity](Kotlin/P14_a.kt) |  
-| [2'nd activity](Xml/P14_b.xml) | [2'nd activity](Kotlin/P14_b.kt) |   
-| [3'rd activity](Xml/P14_c.xml) | [3'rd activity](Kotlin/P14_c.kt) |   
-| [Custom List item design](Xml/P14_d.xml) |  |   
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [1'st activity](Xml/P14_a.xml) | [1'st activity](Kotlin/P14_a.kt) |  | 
+| [2'nd activity](Xml/P14_b.xml) | [2'nd activity](Kotlin/P14_b.kt) | [Output Screenshot](Images/S14.png) |
+| [3'rd activity](Xml/P14_c.xml) | [3'rd activity](Kotlin/P14_c.kt) |  |
+| [Custom List item design](Xml/P14_d.xml) |  |   |
 
 <br>
-
-[Output Screenshot](Images/S14.png)
 
 ---
