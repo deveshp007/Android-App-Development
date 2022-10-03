@@ -20,6 +20,8 @@
 
 [Output Screenshot](Images/S1.png)
 
+---
+
 ### <u>2. TextViews and Submit Button App:</u>
 
 > App to display Text and a button to show Toast message on screen. 
@@ -35,6 +37,8 @@
 
 [Output Screenshot](Images/S2.png)
 
+---
+
 
 ### <u>3. Simple Addition Calculator App:</u>
 
@@ -48,6 +52,8 @@
 [Kotlin Code](Kotlin/P3.kt)
 
 [Output Screenshot](Images/S3.png)
+
+---
 
 
 ### <u>4. Simple Addition, Subtraction, Multiplication & Division Calculator App:</u>
@@ -65,6 +71,8 @@
 
 [Output Screenshot](Images/S4.png)
 
+---
+
 ### <u>5. Simple Form App:</u>
 
 > App that takes different inputs from user and show it on the screen. 
@@ -79,6 +87,8 @@
 
 [Output Screenshot](Images/S5.png)
 
+---
+
 ### <u>6. Android Activity Lifecycle:</u>
 
 > shows Logs in Logcat section about start, stop, pause, resume etc.
@@ -90,6 +100,8 @@
 [Kotlin Code](Kotlin/P6.kt)
 
 [Output Screenshot](Images/S6.png)
+
+---
 
 ### <u>7. Radio-Button Implementation:</u>
 
@@ -105,6 +117,7 @@
 
 [Output Screenshot](Images/S7.png)
 
+---
 
 ### <u>8. Grid-Layout Implementation:</u>
 
@@ -120,6 +133,7 @@
 
 [Output Screenshot](Images/S8.png)
 
+---
 
 ### <u>9. Simple Calculator App:</u>
 
@@ -137,6 +151,7 @@
 
 [Output Screenshot](Images/S9.png)
 
+---
 
 ### <u>10. CheckBox Example App:</u>
 
@@ -153,6 +168,7 @@
 
 [Output Screenshot](Images/S10.png)
 
+---
 
 ### <u>11. ListView Example App:</u>
 
@@ -167,6 +183,7 @@
 
 [Output Screenshot](Images/S11.png)
 
+---
 
 ### <u>12. Drop-Down Example App:</u>
 
@@ -181,6 +198,8 @@
 [Kotlin Code](Kotlin/P12.kt)
 
 [Output Screenshot](Images/S12.png)
+
+---
 
 ### <u>13. Intent Example App:</u>
 
@@ -202,6 +221,8 @@
 
 
 [Output Screenshot](Images/S13.png)
+
+---
 
 ### <u>14. Food order Example App:</u>
 
@@ -237,3 +258,5 @@
 <br>
 
 [Output Screenshot](Images/S14.png)
+
+---
