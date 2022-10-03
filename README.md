@@ -3,7 +3,7 @@
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
  ## Topics : 
- 
+
  ---
 
 ### <u>1. Hello World App:</u>
@@ -231,32 +231,27 @@
 
 > Dummy Food order app with three activity in which user have to choose an item from the list in 1'st activity, fill details in 2'nd activity and it will display values on last activity.
 
-- Custom ListView
-- ScrollView
-- CardView
-- Relative Layout
-- Constraint Layout
-- Linear Layout
-- Grid Layout
+- Views
+    - Custom ListView
+    - ScrollView
+    - CardView
+- Layouts
+    - Relative Layout
+    - Constraint Layout
+    - Linear Layout
+    - Grid Layout
 - Intent
 - Spinner
 - Adapter
 
-[XML Code for 1'st activity](Xml/P14_a.xml)
-
-[XML Code for 2'nd activity](Xml/P14_b.xml)
-
-[XML Code for 3'rd activity](Xml/P14_c.xml)
-
-[XML Code for Custom List item design](Xml/P14_d.xml)
-
 <br>
 
-[Kotlin Code for 1'st activity](Kotlin/P14_a.kt)
-
-[Kotlin Code for 2'nd activity](Kotlin/P14_b.kt)
-
-[Kotlin Code for 3'rd activity](Kotlin/P14_c.kt)
+| XML Codes | Kotlin Codes|  
+|-----------|:-----------:| 
+| [1'st activity](Xml/P14_a.xml) | [1'st activity](Kotlin/P14_a.kt) |  
+| [2'nd activity](Xml/P14_b.xml) | [2'nd activity](Kotlin/P14_b.kt) |   
+| [3'rd activity](Xml/P14_c.xml) | [3'rd activity](Kotlin/P14_c.kt) |   
+| [Custom List item design](Xml/P14_d.xml) |  |   
 
 <br>
 
