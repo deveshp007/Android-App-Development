@@ -289,7 +289,7 @@
 
 ### <u>17. SnackBar Example App:</u>
 
-> App with a button which generate a snackBar(with action) when clicked on it, And when clicked on Snackbar button it display a text on screen.
+> App with a button which generate a snackBar(with action) when clicked on it, And when clicked on Snackbar button it shows some text on screen.
 
 - SnackBar
 - Button
