@@ -285,3 +285,18 @@
 
 [Output Screenshot](Images/S16.png)
 
+---
+
+### <u>17. SnackBar Example App:</u>
+
+> App with a button which generate a snackBar(with action) when clicked on it, And when clicked on Snackbar button it display a text on screen.
+
+- SnackBar
+- Button
+
+[XML Code](Xml/P17.xml) 
+
+[Kotlin Code](Kotlin/P17.kt)
+
+[Output Screenshot](Images/S17.png)
+
