@@ -204,7 +204,7 @@
 
 ---
 
-### <u>13. Intent Example App:</u>
+### <u>13. Explicit Intent Example App:</u>
 
 > Form app with two activity which take user input in one activity and display on another using Intent.
 
@@ -299,4 +299,20 @@
 [Kotlin Code](Kotlin/P17.kt)
 
 [Output Screenshot](Images/S17.png)
+
+---
+
+### <u>18. Implicit Example App:</u>
+
+> App with a set of buttons for: navigating any url and opening camera, call logs, contacts, gallery & dialler using Intent.
+
+- Intent
+- Button
+- EditText
+
+[XML Code](Xml/P18.xml) 
+
+[Kotlin Code](Kotlin/P18.kt)
+
+[Output Screenshot](Images/S18.png)
 
