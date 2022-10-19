@@ -316,3 +316,20 @@
 
 [Output Screenshot](Images/S18.png)
 
+---
+
+### <u>19. Intent Data Transfer:</u>
+
+> App with a couple of editText, having some operations(+,-,*,/) in form of radioButton. After giving inputs and clicking on Compute Button it transfer data & shows result on another activity using intent.
+
+- Intent
+- Button
+- EditText
+- RadioButton
+- RadioGroup
+
+
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [1'st activity](Xml/P19_a.xml) | [1'st activity](Kotlin/P19_a.kt) |  | 
+| [2'nd activity](Xml/P19_b.xml) | [2'nd activity](Kotlin/P19_b.kt) | [Output Screenshot](Images/S19.png) |
