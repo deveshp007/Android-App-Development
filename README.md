@@ -333,3 +333,19 @@
 |-----------|:-----------:| :-----------:|
 | [1'st activity](Xml/P19_a.xml) | [1'st activity](Kotlin/P19_a.kt) |  | 
 | [2'nd activity](Xml/P19_b.xml) | [2'nd activity](Kotlin/P19_b.kt) | [Output Screenshot](Images/S19.png) |
+
+---
+
+### <u>20. Alert-Dialog box Example App:</u>
+
+> App with a button which shows alert dialog box when clicked on it.
+
+- AlertDialog
+- Button
+- Toast
+
+[XML Code](Xml/P20.xml) 
+
+[Kotlin Code](Kotlin/P20.kt)
+
+[Output Screenshot](Images/S20.png)
