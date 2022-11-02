@@ -1,47 +1,33 @@
 package alpha.dex.dexsix
 
+import android.content.Intent
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.Toast
-import androidx.appcompat.app.AlertDialog
 
-class MainActivity : AppCompatActivity() {
+class AppChoser : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_app_choser)
 
-        val btnAlert = findViewById<Button>(R.id.btnAlert)
+        val btnApp = findViewById<Button>(R.id.button2)
+        val btnApp2 = findViewById<Button>(R.id.button3)
 
-        btnAlert.setOnClickListener {
+        btnApp.setOnClickListener {
 
-            val builder = AlertDialog.Builder(this)
-            builder.setTitle("Login Alert")
-                .setMessage("Are you sure, you want to continue ?")
-                .setCancelable(true)
-                // .setMessage("this is alert")
-                .setIcon(android.R.drawable.ic_dialog_alert)
+            val location =
+                Uri.parse("geo:0,0?q=1600+Amphitheatre+Parkway,+Mountain+View,+California")
+            val mapIntent = Intent(Intent.ACTION_VIEW, location)
+            startActivity(mapIntent)
+        }
 
-
-            //performing positive action
-            builder.setPositiveButton("Yes") { dialogInterface, which ->
-                Toast.makeText(applicationContext, "clicked yes", Toast.LENGTH_LONG).show()
-            }
-            //performing cancel action
-            builder.setNeutralButton("Cancel") { dialogInterface, which ->
-                Toast.makeText(
-                    applicationContext,
-                    "clicked cancel\n operation cancel",
-                    Toast.LENGTH_LONG
-                ).show()
-            }
-            //performing negative action
-            builder.setNegativeButton("No") { dialogInterface, which ->
-                Toast.makeText(applicationContext, "clicked No", Toast.LENGTH_LONG).show()
-            }
-
-            val alertDialog: AlertDialog = builder.create()
-            alertDialog.show()
+        btnApp2.setOnClickListener {
+            var url = "http://www.google.com"
+            val intent = Intent(Intent.ACTION_VIEW)
+            intent.setDataAndType(Uri.parse(url), "text/plain")
+            val choose = Intent.createChooser(intent, "Share URL")
+            startActivity(choose)
         }
     }
 }

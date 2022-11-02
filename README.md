@@ -336,7 +336,22 @@
 
 ---
 
-### <u>20. Alert-Dialog box Example App:</u>
+### <u>20. App-Choser :</u>
+
+> App with a couple of buttons to open map with a default location and open provided link in default browser using implicit intent.
+
+- Implicit Intent
+- Button
+
+[XML Code](Xml/P20.xml) 
+
+[Kotlin Code](Kotlin/P20.kt)
+
+[Output Screenshot](Images/S20.png)
+
+---
+
+### <u>21. Alert-Dialog box Example App:</u>
 
 > App with a button which shows alert dialog box when clicked on it.
 
@@ -344,8 +359,8 @@
 - Button
 - Toast
 
-[XML Code](Xml/P20.xml) 
+[XML Code](Xml/P21.xml) 
 
-[Kotlin Code](Kotlin/P20.kt)
+[Kotlin Code](Kotlin/P21.kt)
 
-[Output Screenshot](Images/S20.png)
+[Output Screenshot](Images/S21.png)
