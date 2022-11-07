@@ -419,7 +419,7 @@ For permission, in manifest file add this line:
 
 To make menu file, right click on res folder and select New -> Android Resource Directory. Then select menu folder and click on OK. Then right click on menu folder and select New -> Menu Resource File. Then give name to menu file and click on OK.
 
-[Menu file](xml/P24_a.xml)
+[Menu file](Xml/P24_a.xml)
 
 [XML Code](Xml/P24.xml)
 
