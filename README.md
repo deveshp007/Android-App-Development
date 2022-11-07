@@ -395,7 +395,9 @@
 
 For permission, in manifest file add this line:
 
-`<uses-permission android:name="android.permission.CAMERA" />`
+```
+<uses-permission android:name="android.permission.CAMERA" />
+```
 
 
 [XML Code](Xml/P23.xml) 
