@@ -405,3 +405,24 @@ For permission, in manifest file add this line:
 [Kotlin Code](Kotlin/P23.kt)
 
 [Output Screenshot](Images/S23.png)
+
+---
+
+### <u>24. Action-Bar Example App:</u>
+
+> App with a action bar having menu items and a button which shows Toast message when clicked on it.
+
+- Action Bar
+- menu(res folder)
+- Toast
+- menu item
+
+To make menu file, right click on res folder and select New -> Android Resource Directory. Then select menu folder and click on OK. Then right click on menu folder and select New -> Menu Resource File. Then give name to menu file and click on OK.
+
+[menu file](xml/P24_a.xml)
+
+[XML Code](Xml/P24.xml)
+
+[Kotlin Code](Kotlin/P24.kt)
+
+[Output Screenshot](Images/S24.png)
