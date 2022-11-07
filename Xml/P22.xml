@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomAlert">
+
+    <Button
+        android:id="@+id/btnSimpleAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SIMPLE ALERT DIALOG"
+        app:layout_constraintBottom_toTopOf="@+id/btnAlertWithItems"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnAlertWithItems"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WITH ITEMS"
+        app:layout_constraintBottom_toTopOf="@+id/btnAlertWithMultiChoiceItems"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSimpleAlert" />
+
+    <Button
+        android:id="@+id/btnAlertWithMultiChoiceItems"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WITH MULTI CHOICE ITEMS"
+        app:layout_constraintBottom_toTopOf="@+id/btnAlertWithEditText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnAlertWithItems" />
+
+    <Button
+        android:id="@+id/btnAlertWithEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WITH EDIT TEXT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnAlertWithMultiChoiceItems" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

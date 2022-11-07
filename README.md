@@ -364,3 +364,21 @@
 [Kotlin Code](Kotlin/P21.kt)
 
 [Output Screenshot](Images/S21.png)
+
+---
+
+### <u>22. Custom Alert-Dialog box Example App:</u>
+
+> App with a set of button which shows different type of alert dialog box when clicked on it.
+
+- AlertDialog
+- Button
+- Toast
+- EditText
+- CheckBox
+
+[XML Code](Xml/P22.xml) 
+
+[Kotlin Code](Kotlin/P22.kt)
+
+[Output Screenshot](Images/S22.png)
