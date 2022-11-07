@@ -382,3 +382,24 @@
 [Kotlin Code](Kotlin/P22.kt)
 
 [Output Screenshot](Images/S22.png)
+
+---
+
+### <u>23. Camera-Picture App:</u>
+
+> App which is used to take picture on own app using camera and display it in ImageView.
+
+- Implicit Intent
+- Button
+- Toast
+
+For permission, in manifest file add this line:
+
+`<uses-permission android:name="android.permission.CAMERA" />`
+
+
+[XML Code](Xml/P23.xml) 
+
+[Kotlin Code](Kotlin/P23.kt)
+
+[Output Screenshot](Images/S23.png)
