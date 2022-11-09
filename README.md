@@ -431,7 +431,7 @@ To make menu file, right click on res folder and select New -> Android Resource 
 
 ### <u>25. Contact-list Example App:</u>
 
-> App with a floating action button which shows an alert dialog box when clicked on it. In alert dialog box user can add contact details and it will be displayed in list view.
+> App with a floating action button which shows an alert dialog box when clicked on it. In alert dialog box user can add contact details and it will be displayed in list view. User can also update and delete contact details.
 
 - Floating Action Button
 - AlertDialog
