@@ -449,3 +449,24 @@ To make contact_menu file, right click on res folder and select New -> Android R
 [Kotlin Code](Kotlin/P25.kt)
 
 [Output Screenshot](Images/S25.png)
+
+---
+
+### <u>26. Option-Menu Example App:</u>
+
+> App with a option menu having menu items and shows toast message when clicked on it.
+
+- Option Menu
+- menu(res folder)
+- Toast
+- menu item
+
+To make option_menu file, right click on res folder and select New -> Android Resource Directory. Then select menu folder and click on OK. Then right click on menu folder and select New -> Menu Resource File. Then give name to menu file and click on OK.
+
+[Menu file](Xml/P26_a.xml)
+
+[XML Code](Xml/P26.xml)
+
+[Kotlin Code](Kotlin/P26.kt)
+
+[Output Screenshot](Images/S26.png)
