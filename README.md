@@ -470,3 +470,24 @@ To make option_menu file, right click on res folder and select New -> Android Re
 [Kotlin Code](Kotlin/P26.kt)
 
 [Output Screenshot](Images/S26.png)
+
+---
+
+### <u>27. Popup-Menu Example App:</u>
+
+> App with a button which shows popup menu when clicked on it. It shows toast message when clicked on any menu item.
+
+- Popup Menu
+- menu(res folder)
+- Toast
+- menu item
+
+To make popup_menu file, right click on res folder and select New -> Android Resource Directory. Then select menu folder and click on OK. Then right click on menu folder and select New -> Menu Resource File. Then give name to menu file and click on OK.
+
+[Menu file](Xml/P27_a.xml)
+
+[XML Code](Xml/P27.xml)
+
+[Kotlin Code](Kotlin/P27.kt)
+
+[Output Screenshot](Images/S27.png)
