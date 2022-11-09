@@ -2,7 +2,7 @@
 
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
- ## Topics : 
+ <h2> Topics : </h2>
 
  ---
 
