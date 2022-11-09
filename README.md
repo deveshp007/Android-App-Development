@@ -426,3 +426,26 @@ To make menu file, right click on res folder and select New -> Android Resource 
 [Kotlin Code](Kotlin/P24.kt)
 
 [Output Screenshot](Images/S24.png)
+
+---
+
+### <u>25. Contact-list Example App:</u>
+
+> App with a floating action button which shows an alert dialog box when clicked on it. In alert dialog box user can add contact details and it will be displayed in list view.
+
+- Floating Action Button
+- AlertDialog
+- ListView
+- menu(res folder)
+- Toast
+- menu item
+
+To make contact_menu file, right click on res folder and select New -> Android Resource Directory. Then select menu folder and click on OK. Then right click on menu folder and select New -> Menu Resource File. Then give name to menu file and click on OK.
+
+[Menu file](Xml/P25_a.xml)
+
+[XML Code](Xml/P25.xml)
+
+[Kotlin Code](Kotlin/P25.kt)
+
+[Output Screenshot](Images/S25.png)
