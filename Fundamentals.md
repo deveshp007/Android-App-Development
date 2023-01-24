@@ -1,4 +1,4 @@
-<h1 align="center">Fundamentals-of-Android</h1>
+<h1 align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/android/images/lockup.svg"> Fundamentals-of-Android</h1>
 
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
