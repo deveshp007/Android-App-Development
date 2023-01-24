@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/android/images/lockup.svg" height=150> <br> Fundamentals-of-Android</h1>
+<h1 align="center"><img src="https://cdn-images-1.medium.com/max/700/1*jPVPY4GjPRK3prnJ2o09cQ.png" height=150> <br> Fundamentals-of-Android</h1>
 
  <p align="center"> Kotlin and XML codes from basic for Android app development </p>
  
