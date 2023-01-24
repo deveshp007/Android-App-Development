@@ -1,1 +1,1 @@
-<h1 align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/android/images/lockup.svg" height=100> Developing-Android-Apps </h1>
+<h1 align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/android/images/lockup.svg" height=150> <br> Developing-Android-Apps </h1>
