@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Rating">
+
+    <RatingBar
+        android:id="@+id/simpleRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="1dp"
+        android:numStars="5"
+        android:rating="1.5"
+        android:secondaryProgressTint="#D63333"
+        android:progressTint="#D63333"
+        android:progressBackgroundTint="#F4E0E0"
+        android:stepSize="0.5"
+        />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="316dp"
+        android:layout_height="69dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="187dp"
+        android:padding="10dp"
+        android:text="SUBMIT"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <RatingBar
+        android:id="@+id/simpleRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:progressBackgroundTint="#C1C0E6"
+        android:progressTint="#04085E"
+        android:secondaryProgressTint="#04085E"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="323dp"
+        android:numStars="5"
+        android:paddingLeft="5dp"
+        android:paddingRight="1dp"
+        android:rating="1.5" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="136dp"
+        android:textSize="50dp"
+        android:textColor="@color/black"
+        android:text="Rating Bar" />
+
+</RelativeLayout>

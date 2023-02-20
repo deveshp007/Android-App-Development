@@ -16,7 +16,6 @@
 - TextView
 
 
-
 [XML Code](Xml/P28.xml) 
 
 [Kotlin Code](Kotlin/P28.kt)
@@ -24,3 +23,58 @@
 [Output Screenshot](Images/S28.png)
 
 ---
+
+### <u>2. Tool-Bar Example App:</u>
+
+> App with Toolbar having a set of buttons inside it.
+- Toolbar
+- Button
+- RelativeLayout
+- TextView
+
+[Menu file](Xml/P29_a.xml) 
+
+[XML Code](Xml/P29.xml)
+
+[Kotlin Code](Kotlin/P29.kt)
+
+[Output Screenshot](Images/S29.png)
+
+
+---
+
+
+### <u>3. Rating Bar Example App:</u>
+
+> App with RatingBar and a submit button which display a toast clicked on it
+- RatingBar
+- Button
+- RelativeLayout
+- TextView
+
+[XML Code](Xml/P30.xml)
+
+[Kotlin Code](Kotlin/P30.kt)
+
+[Output Screenshot](Images/S30.png)
+
+
+---
+
+### <u>4. Splash Screen Example App:</u>
+
+> App with Splash Screen. Splash Screen is a screen which is displayed when the app is launched. It is used to display the logo of the app or some other information for a short period of time.
+- Handler
+- Runnable
+- Intent
+- RelativeLayout
+
+[XML Code](Xml/P31.xml)
+
+[Kotlin Code](Kotlin/P31.kt)
+
+[Output Screenshot](Images/S31.png)
+
+
+---
+
