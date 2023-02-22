@@ -104,6 +104,11 @@
 - Button
 - ConstraintLayout
 
+[XML Code](Xml/P33.xml)
+
+[Kotlin Code](Kotlin/P33.kt)
+
+[Output Screenshot](Images/S33.png)
 
 
 ---
