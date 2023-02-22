@@ -32,6 +32,10 @@
 - RelativeLayout
 - TextView
 
+Firstly, Go to res > values > themes.xml(both files) and change the theme from DarkActionBar to NoActionBar otherwise the app may crash.
+
+
+
 [Menu file](Xml/P29_a.xml) 
 
 [XML Code](Xml/P29.xml)
