@@ -78,3 +78,22 @@
 
 ---
 
+### <u>5. Custom-Toast Example App:</u>
+
+> App with a button that shows a Custom Toast when click on it. Custom Toast is a toast which is displayed with a custom layout.
+- Toast
+- Button
+- ConstraintLayout
+
+[Custom Toast Layout file](Xml/P32_a.xml)
+
+[XML Code](Xml/P32.xml)
+
+[Kotlin Code](Kotlin/P32.kt)
+
+[Output Screenshot](Images/S32.png)
+
+
+---
+
+
