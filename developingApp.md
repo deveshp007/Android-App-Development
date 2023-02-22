@@ -115,6 +115,19 @@
 
 ### <u>7. Footer Example App:</u>
 
+> Footer is also known as Bottom Navigation Bar. It is a bar which is displayed at the bottom of the screen. It is used to navigate between different activities or fragments. In this app, we have a footer with 4 items. When we click on any item, the textView is changed to the name of the item.
+- BottomNavigationView
+- TextView
+- ConstrainLayout
+- Menu
+
+[Menu file](Xml/P34_a.xml)
+
+[XML Code](Xml/P34.xml)
+
+[Kotlin Code](Kotlin/P34.kt)
+
+[Output Screenshot](Images/S34.png)
 
 
 
