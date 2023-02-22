@@ -130,11 +130,34 @@
 [Output Screenshot](Images/S34.png)
 
 
-
 ---
 
 
 ### <u>8. Alarm Manager Example App:</u>
+
+> App with an edit text and a button. When we enter the time in the edit text and click on the button, the alarm is set for that time. When the alarm is triggered, a toast is displayed and the alarm is played. We can cancel the alarm by clicking on the cancel button. We can create a repeating alarm by clicking on the repeating button.
+- AlarmManager
+- PendingIntent
+- BroadcastReceiver
+- Intent
+- EditText
+- Button
+
+Add a ringtone in the raw folder.
+
+Add a permission in the manifest file under the application tag.
+
+```<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />```
+
+Add a receiver with the name same as class name of the BroadcastReceiver in the manifest file under the application tag.
+
+```<receiver android:name=".AlarmManagerBroadcast" />```
+
+[XML Code](Xml/P35.xml)
+
+[Kotlin Code](Kotlin/P35.kt)
+
+[Output Screenshot](Images/S35.png)
 
 
 ---
