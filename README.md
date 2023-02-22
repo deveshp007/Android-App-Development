@@ -29,3 +29,8 @@
 - Splash Screen
 - Progress Bar
 - Custom Toast
+- Footer
+- Pending Intents
+- Alarm Manager
+- Job Scheduler
+- Notification
