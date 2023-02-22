@@ -164,6 +164,33 @@ Add a receiver with the name same as class name of the BroadcastReceiver in the 
 
 ### <u>9. Job Scheduler Example App:</u>
 
+> App with a button that shows a Job Scheduler when click on it. Job Scheduler is a service which is used to perform some task at a specific time. In this app, we have a button which starts the job scheduler. When the job scheduler is triggered, a toast is displayed and the alarm is played. We can cancel the job scheduler by clicking on the stop job button. 
+- JobScheduler
+- JobService
+- AlarmManager
+- PendingIntent
+- BroadcastReceiver
+
+
+Add AlarmManagerBroadcast and all permissions in manifest file from the above example.
+
+Add a service with the name same as class name of the JobService in the manifest file under the application tag.
+
+```
+<service
+            android:name=".MyJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+            
+```
+
+[XML Code](Xml/P36.xml)
+
+[Kotlin Code](Kotlin/P36.kt)
+
+[Output Screenshot](Images/S36.png)
+
+
 
 ---
 
