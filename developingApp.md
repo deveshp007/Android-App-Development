@@ -97,3 +97,56 @@
 ---
 
 
+### <u>6. Progress Bar Example App:</u>
+
+> App with a button that shows a Progress Bar when click on it. Progress Bar is a bar which is displayed to show the progress of some task.
+- ProgressBar
+- Button
+- ConstraintLayout
+
+
+
+---
+
+### <u>7. Footer Example App:</u>
+
+
+
+
+---
+
+### <u>8. Pending Intent Example App:</u>
+
+
+---
+
+
+### <u>9. Alarm Manager Example App:</u>
+
+
+---
+
+### <u>10. Job Scheduler Example App:</u>
+
+
+---
+
+
+### <u>11. Notification Example App:</u>
+
+> App with a button that shows a Notification when click on it. Notification is a message which is displayed outside the app. When the user clicks on the notification, the app is opened and the user is taken to the activity which is specified in the intent and shown the message.
+- Notification
+- NotificationManager
+- NotificationChannel
+- PendingIntent
+- Intent
+- Builder
+
+
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [1'st activity](Xml/P38_a.xml) | [1'st activity](Kotlin/P38_a.kt) |  | 
+| [2'nd activity](Xml/P38_b.xml) | [2'nd activity](Kotlin/P38_b.kt) | [Output Screenshot](Images/S38.png) |
+
+
+---
