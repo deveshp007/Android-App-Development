@@ -217,3 +217,25 @@ Add a service with the name same as class name of the JobService in the manifest
 
 
 ---
+
+
+### <u>10. Static Fragment Example App:</u>
+
+> App with two fragments in a single activity. The first fragment is having a set of buttons for sending text, clear text and changing background colour of the second fragment.
+- Fragment
+- FragmentManager
+- FragmentTransaction
+- Button
+- TextView
+
+
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [Main activity](Xml/P38.xml) | [Main activity](Kotlin/P38.kt) |  | 
+| [1'st fragment](Xml/P38_a.xml) | [1'st fragment](Kotlin/P38_a.kt) | |
+| [2'nd fragment](Xml/P38_b.xml) | [2'nd fragment](Kotlin/P38_b.kt) | [Output Screenshot](Images/S38.png) |
+|  | [Text Interface](Kotlin/P38_c.kt)| |
+|  | [Color Interface](kotlin/P38_d.kt)| |
+
+
+---
