@@ -219,7 +219,7 @@ Add a service with the name same as class name of the JobService in the manifest
 ---
 
 
-### <u>10. Static Fragment Example App:</u>
+### <u>11. Static Fragment Example App:</u>
 
 > App with two fragments in a single activity. The first fragment is having a set of buttons for sending text, clear text and changing background colour of the second fragment.
 - Fragment

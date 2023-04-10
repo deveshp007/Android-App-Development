@@ -34,3 +34,11 @@
 - Alarm Manager
 - Job Scheduler
 - Notification
+- Fragment
+- Date Picker Dialog
+- Time Picker Dialog
+- Custom Views
+- Data Storage
+- Tab Layout
+- Drawer Layout
+- View Pager
