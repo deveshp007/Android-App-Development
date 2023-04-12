@@ -317,3 +317,19 @@ Add a service with the name same as class name of the JobService in the manifest
 
 ---
 
+### <u>16. Date Picker Example App:</u>
+
+> App with a date picker. When user selects a date, the date is displayed as a toast message.
+- DatePicker
+- Button
+- Toast
+
+[XML Code](Xml/P43.xml)
+
+[Kotlin Code](Kotlin/P43.kt)
+
+[Output Screenshot](Images/S43.png)
+
+
+---
+
