@@ -278,3 +278,20 @@ Add a service with the name same as class name of the JobService in the manifest
 
 
 ---
+
+### <u>14. Custom View Example App:</u>
+
+> App with a custom view. The activity is having a custom views as a rectange and three arc which is making a fan shape. It translates fan which seems like a fan is rotating. 
+- CustomView
+- Canvas
+- Paint
+- Path
+
+[XML Code](Xml/P41.xml)
+
+[Kotlin Code](Kotlin/P41.kt)
+
+[CustomView Code](Kotlin/P41_a.kt)
+
+[Output Screenshot](Images/S41.png)
+
