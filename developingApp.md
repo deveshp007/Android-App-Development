@@ -295,3 +295,25 @@ Add a service with the name same as class name of the JobService in the manifest
 
 [Output Screenshot](Images/S41.png)
 
+
+---
+
+### <u>15. Simple Drawing App:</u>
+
+> App that allows the user to draw on the screen. It has a button to clear the canvas.
+- Canvas
+- Paint
+- Path
+- Button
+
+[XML Code](Xml/P42.xml)
+
+[Kotlin Code](Kotlin/P42.kt)
+
+[CustomView Code](Kotlin/P42_a.kt)
+
+[Output Screenshot](Images/S42.png)
+
+
+---
+
