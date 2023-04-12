@@ -333,3 +333,20 @@ Add a service with the name same as class name of the JobService in the manifest
 
 ---
 
+
+### <u>17. Time Picker Example App:</u>
+
+> App with a time picker. When user selects a time, the time is displayed as a toast message.
+- TimePicker
+- Button
+- Toast
+
+[XML Code](Xml/P44.xml)
+
+[Kotlin Code](Kotlin/P44.kt)
+
+[Output Screenshot](Images/S44.png)
+
+
+---
+
