@@ -243,7 +243,7 @@ Add a service with the name same as class name of the JobService in the manifest
 
 ### <u>12. Fragment with ListView:</u>
 
-> App with two fragments in a single activity. The first fragment is having a list of items. When we click on any item, the second fragment is displayed with the name of the item.
+> App with two fragments in a single activity. The first fragment is having a list of items. When we click on any item, the second fragment is displayed with the name of the item. It also shows how to pass data from one fragment to another fragment.
 - Fragment
 - FragmentManager
 - ListView
@@ -256,6 +256,25 @@ Add a service with the name same as class name of the JobService in the manifest
 | [Main activity](Xml/P39.xml) | [Main activity](Kotlin/P39.kt) |  | 
 | [1'st fragment](Xml/P39_a.xml) | [1'st fragment](Kotlin/P39_a.kt) | [Output Screenshot](Images/S39.png) |
 | [2'nd fragment](Xml/P39_b.xml) | [2'nd fragment](Kotlin/P39_b.kt) | |
+
+
+---
+
+### <u>13. Dynamic Fragment Example App:</u>
+
+> App with two fragments. The fragments are displayed depending on the orientation of the device. When the device is in portrait mode, the first fragment is displayed. When the device is in landscape mode, the second fragment is displayed.
+- Fragment
+- FragmentManager
+- FragmentTransaction
+- Orientation
+- Button
+- TextView
+
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [Main activity](Xml/P40.xml) | [Main activity](Kotlin/P40.kt) |  | 
+| [1'st fragment](Xml/P40_a.xml) | [1'st fragment](Kotlin/P40_a.kt) | [Output Screenshot](Images/S40.png) |
+| [2'nd fragment](Xml/P40_b.xml) | [2'nd fragment](Kotlin/P40_b.kt) | |
 
 
 ---
