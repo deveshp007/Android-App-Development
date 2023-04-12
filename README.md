@@ -7,9 +7,9 @@
   <img alt="Visitors count" src="https://visitor-badge.laobi.icu/badge?page_id=deveshp007.Android-App-Development">
   </a>
   <a href="https://github.com/deveshp007/DeX-Crypto/blob/main/LICENSE.md">
-    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/DeX-Crypto?style=social">
+    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/Android-App-Development?style=badge">
   </a>
-  <img alt="release date" src="https://img.shields.io/github/release-date/deveshp007/DeX-Crypto?style=social">
+
 </div>
  
  <h2> Parts: </h2>
