@@ -281,7 +281,7 @@ Add a service with the name same as class name of the JobService in the manifest
 
 ### <u>14. Custom View Example App:</u>
 
-> App with a custom view. The activity is having a custom views as a rectange and three arc which is making a fan shape. It translates fan which seems like a fan is rotating. 
+> App with a custom view. The activity is having a custom views as a rectange and three arc which is making a fan shape. When user tap on it, then the fan translates which seems like a fan is rotating. 
 - CustomView
 - Canvas
 - Paint
