@@ -239,3 +239,23 @@ Add a service with the name same as class name of the JobService in the manifest
 
 
 ---
+
+
+### <u>12. Fragment with ListView:</u>
+
+> App with two fragments in a single activity. The first fragment is having a list of items. When we click on any item, the second fragment is displayed with the name of the item.
+- Fragment
+- FragmentManager
+- ListView
+- Button
+- TextView
+
+
+| XML Codes | Kotlin Codes|  Output |
+|-----------|:-----------:| :-----------:|
+| [Main activity](Xml/P39.xml) | [Main activity](Kotlin/P39.kt) |  | 
+| [1'st fragment](Xml/P39_a.xml) | [1'st fragment](Kotlin/P39_a.kt) | [Output Screenshot](Images/S39.png) |
+| [2'nd fragment](Xml/P39_b.xml) | [2'nd fragment](Kotlin/P39_b.kt) | |
+
+
+---
